@@ -1,0 +1,11 @@
+Program p1Main;
+	Int v1, v2;
+	
+	Function c4lc(Int n1, n2; Int o0perator) : Int Begin
+		Return n1 + n2
+	End;
+	
+Begin
+	v1 := c4lc(#1, #-2, #0);
+	v2 := c4lc(v1, #4, #1)
+End;

@@ -1,0 +1,9 @@
+↓↓←
+↓↓→
+↓↓→
+←←↓
+----------
+expanded nodes: 28
+visited nodes: 17
+sol. depth: 4
+max mem.: 14

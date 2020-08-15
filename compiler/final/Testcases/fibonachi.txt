@@ -1,0 +1,20 @@
+Program p1Main;
+	Int f0rtiethNumber;
+	
+	Procedure p1(Int t1; Bool t2)
+		#1;
+	
+	Function f1bonachiSequence(Int l1mit) : Int Begin
+		If(l1mit .LT. #3) Then Return #1;
+		Return f1bonachi(#1, #1, l1mit - #2)
+	End;
+	
+	Function f1bonachi(Int f1rst, s3cond, l1mit) : Int Begin
+		l1mit := l1mit - #1;
+		If(l1mit .EQ. #0) Then Return f1rst + s3cond
+		Else Return f1bonachi(s3cond, f1rst + s3cond, l1mit)
+	End;
+	
+Begin
+	f0rtiethNumber := f1bonachiSequence(#40)
+End;

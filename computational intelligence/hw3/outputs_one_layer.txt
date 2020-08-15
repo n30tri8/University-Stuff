@@ -1,0 +1,18 @@
+network cost in epoch 0: 38.287470
+network cost in epoch 100: 34.844854
+network cost in epoch 200: 28.260500
+network cost in epoch 300: 23.170122
+network cost in epoch 400: 22.270451
+network cost in epoch 500: 21.596994
+network cost in epoch 600: 20.782403
+network cost in epoch 700: 20.058202
+network cost in epoch 800: 19.809255
+.....
+network cost in epoch 9900: 19.809255
+W = [0.42127569364413037, -0.024451765207677535, -0.1955199824267108]
+-----------------------------------------------
+network cost in epoch 9900: 19.696486
+W = [0.30212380475827455, -0.46511086066186386, 0.1808962849353503]
+-----------------------------------------------
+network cost in epoch 9900: 19.680095
+W = [-0.7149269789943559, -0.003423619930564046, 0.28061393538191814]

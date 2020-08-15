@@ -1,0 +1,27 @@
+Left
+Left
+Down
+Right
+Right
+Up
+Left
+Down
+Right
+Down
+Left
+Left
+Up
+Right
+Down
+Left
+Up
+Up
+Right
+Down
+Down
+Right
+----------
+expanded nodes: 55666
+visited nodes: 73211
+sol. depth: 22
+max mem.: 17546

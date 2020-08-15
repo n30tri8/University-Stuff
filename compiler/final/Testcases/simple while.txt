@@ -1,0 +1,19 @@
+Program p1Main;
+	Real n1, n2, n3;
+Begin
+	n1 := #20 - #10 / #2;
+	n2 := n1 / (#3 + #2);
+	n3 := n1 * n2 - #10;	
+	
+	While(n1 .GT. #1) Do Begin
+		n1 := #1;
+		n1 := #1;
+		n1 := #1
+	End
+End;
+ 
+ 
+ 
+ 
+ 
+ 

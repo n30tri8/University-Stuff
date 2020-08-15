@@ -1,0 +1,8 @@
+-/			code for exp in assign
+-/			init assign
+-/			LoopAgain: code for exp in condition
+-/			condition checking (i > exp)
+-/			False: block
+-/			increment loop var
+-/			jump to LoopAgain
+-/			True: ...

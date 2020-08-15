@@ -1,0 +1,28 @@
+Program p1Main;
+	Real n1, n2, n3;
+Begin
+	n1 := #20 - #10 / #2;
+	n2 := n1 / (#3 + #2);
+	
+	If(n1 .GT. #2) Then Begin
+			n3 := #1;
+			n3 := #1
+	End 
+	Else Begin
+			If(n1 .GT. #2) Then Begin
+				n3 := #1;
+				n3 := #1
+			End 
+			Else Begin
+				n3 := #1;
+				n3 := #1
+			End
+	End
+End;
+
+
+
+
+
+
+

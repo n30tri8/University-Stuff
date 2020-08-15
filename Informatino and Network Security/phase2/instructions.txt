@@ -1,0 +1,6 @@
+- python .\keys\generate_keys.py
+- copy generated public keys and associated secret key into client.py folder and server.py folder
+- python server.py
+- change server ip address in client.py
+- python client.py
+- choose file to transmit

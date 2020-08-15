@@ -1,0 +1,7 @@
+Program p1Main;
+	Real n1, n2, n3;
+Begin
+	n1 := #20 - #10 / #2;
+	n2 := n1 / (#3 + #2);
+	n3 := n1 * n2 - #10
+End;

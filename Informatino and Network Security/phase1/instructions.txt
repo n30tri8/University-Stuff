@@ -1,0 +1,5 @@
+- python server.py
+- copy generated key.key into client.py folder
+- change server ip address in client.py
+- python client.py
+- choose file to transmit

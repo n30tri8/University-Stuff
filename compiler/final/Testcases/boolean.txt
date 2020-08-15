@@ -1,0 +1,17 @@
+Program p1Main;
+	Real n1, n2, n3;
+Begin
+	n1 := #20 - #10 / #2;
+	n2 := n1 / (#3 + #2);
+	n3 := n1 * n2 - #10;	
+	
+	If(n1 .GT. #2) Then Begin
+		For n2 := #3 Downto #0 Do Begin
+			n3 := n3 + #2;
+			n2 := n2 - #1
+		End
+	End Else
+		If(n2 .NE. #3) Then n2 := #80
+	;
+	n3 := n3 + #1
+End;

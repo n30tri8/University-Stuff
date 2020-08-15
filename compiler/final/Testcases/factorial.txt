@@ -1,0 +1,11 @@
+Program p1Main;
+	Int n4mber;
+	
+	Function f4ctorial(Int n4mber) : Int Begin
+		If(n4mber .LT. #2) Then Return #1;
+		Return n4mber * f4ctorial(n4mber - #1)
+	End;
+	
+Begin
+	n4mber := f4ctorial(#5)
+End;

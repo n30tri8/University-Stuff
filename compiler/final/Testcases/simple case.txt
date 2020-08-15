@@ -1,0 +1,24 @@
+Program p1Main;
+	Real n1, n2, n3;
+Begin
+	n2 := #6;
+	n3 := #7;
+	n1 := #3 - True;
+	Case n1
+			#0 : 
+				n2 := n1 + n2
+				;
+			
+			#1 :
+				n2 := n1 * n2
+				;
+				
+			#2 :
+				n2 := n1 * n2
+			;
+	End;
+	n1 := #10
+End;
+
+
+
